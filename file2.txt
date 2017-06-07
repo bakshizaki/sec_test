@@ -1,0 +1,2 @@
+This file should close issue1
+now this should.
